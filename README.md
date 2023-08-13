@@ -14,5 +14,3 @@
 :computer: Most of my work is done in Python.
 
 :eyes: I'm interested in AI applications in smart infrastructure.
-
-:seedling: I'm currently learning self-supervised approaches in computer vision.
