@@ -1,16 +1,5 @@
-<div id="badges" align="center">
-<a href="https://www.linkedin.com/in/gcerar/">
-	<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://twitter.com/GCerar">
-	<img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee" />
-</a>
-</div>
+Hi 🖐️! I'm Gregor (Greg for short). I'm currently a postdoc at [SensorLab](https://sensorlab.ijs.si), Jožef Stefan Institute, and concurrently a data scientist at [Comsensus](https://comsensus.eu).
 
-:wave: I'm Gregor.
+Most of my work revolves around AI applications in smart infrastructure and time series data. My main research interest is in applications of self-supervised learning in wireless communications.
 
-:books: I'm a *techical* postdoc at [SensorLab](https://sensorlab.ijs.si), Jožef Stefan Institute.
-
-:computer: Most of my work is done in Python.
-
-:eyes: I'm interested in AI applications in smart infrastructure.
+On a personal note, I'm an introvert who usually stays away from the spotlight and deeply enjoys the quiet corners of research and writing elegant code, mainly in Python. Beyond the screens and algorithms, I enjoy hiking, playing chess, and the "Uno!" card game.
